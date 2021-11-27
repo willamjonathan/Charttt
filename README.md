@@ -1,1 +1,2 @@
-# Charttt
+#CHART 1
+BAR GRAPH
